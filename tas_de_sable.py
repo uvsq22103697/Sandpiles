@@ -1,4 +1,3 @@
-# Sandpiles
 #########################################
 # groupe BI 4
 # Flora GHULAM
