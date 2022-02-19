@@ -3,6 +3,6 @@
 # groupe BI 4
 # Flora GHULAM
 # Léa LAPALUT
-# Tatiana
+# Tatiana BRAGER
 # https://github.com/uvsq22103697/Sandpiles 
 #########################################
