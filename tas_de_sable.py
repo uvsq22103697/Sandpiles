@@ -27,7 +27,7 @@
 
 
 #### FAQ ^^:
-# 
+# Qui s'occupe de quel points ? Moi j'ai oublié comment on fait la 1 mais je veux bien regarder
 
 
 
